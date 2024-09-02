@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the project directory (if necessary)
-# cd /path/to/your/project
+cd /test/java/com/example/
 
 # Run Maven tests
 mvn test
